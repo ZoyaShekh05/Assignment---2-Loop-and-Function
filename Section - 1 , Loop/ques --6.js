@@ -1,4 +1,6 @@
-// 6. Multiplication Table
+
+//                          <------------------ 6. Multiplication Table ------------------>
+
 
 // Take a number and print its multiplication table up to 10. 
 
